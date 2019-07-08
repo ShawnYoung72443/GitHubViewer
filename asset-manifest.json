@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GitHubViewer/static/css/main.f40f2775.chunk.css",
+    "main.js": "/GitHubViewer/static/js/main.0906a5f2.chunk.js",
+    "main.js.map": "/GitHubViewer/static/js/main.0906a5f2.chunk.js.map",
+    "runtime~main.js": "/GitHubViewer/static/js/runtime~main.dc930deb.js",
+    "runtime~main.js.map": "/GitHubViewer/static/js/runtime~main.dc930deb.js.map",
+    "static/css/2.266e55a5.chunk.css": "/GitHubViewer/static/css/2.266e55a5.chunk.css",
+    "static/js/2.043f3aaf.chunk.js": "/GitHubViewer/static/js/2.043f3aaf.chunk.js",
+    "static/js/2.043f3aaf.chunk.js.map": "/GitHubViewer/static/js/2.043f3aaf.chunk.js.map",
+    "index.html": "/GitHubViewer/index.html",
+    "precache-manifest.502ba770ea0e09b05175d87c50055511.js": "/GitHubViewer/precache-manifest.502ba770ea0e09b05175d87c50055511.js",
+    "service-worker.js": "/GitHubViewer/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/GitHubViewer/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.f40f2775.chunk.css.map": "/GitHubViewer/static/css/main.f40f2775.chunk.css.map",
+    "static/media/App.css": "/GitHubViewer/static/media/background.3293743f.jpg"
+  }
+}
